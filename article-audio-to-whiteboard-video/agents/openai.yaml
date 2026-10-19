@@ -1,0 +1,4 @@
+interface:
+  display_name: "文章音频转白板视频"
+  short_description: "输入文章和已有音频，自动制作解释图、分镜、字幕及完整白板科普视频"
+  default_prompt: "使用 $article-audio-to-whiteboard-video，把我提供的文章和音频直接制作成白底彩色线稿科普视频，交付 MP4、字幕和可编辑工程。"
